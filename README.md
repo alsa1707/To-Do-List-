@@ -1,4 +1,4 @@
-# To-Do-List-
-This is a straightforward Flask application that allows users to manage their to-do items. Users can create distinct profiles using their email IDs, and the application also includes a password protection feature.
+# TO-DO-LIST
+This is a simple Flask application which lets you save your to-do items.It enables the user to create different profiles using email id. It also has the feature of password protection.
 
-The application utilizes MySQL as its database to store to-do list items. Delimiters (Special Procedures) in MySQL are employed for basic functions such as password validation and retrieving the list.
+The App uses MySQL as a database to store the items in your to-do list. We have used Delimiters (Special Procedures) in MySQL to cary out simple functions like password validation and fetching the list.
